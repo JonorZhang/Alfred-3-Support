@@ -4,10 +4,19 @@
 <dict>
 	<key>fallbacks</key>
 	<array>
+<<<<<<< HEAD
 		<string>features.websearch.custom.761AEE33-C9FE-4A17-9685-1F6E9DF1FB99.fallback</string>
 		<string>features.websearch.custom.2A30D716-572A-40DB-9ECA-E5334FB55D6F.fallback</string>
 		<string>features.websearch.custom.D029A09F-DE86-4371-8A7E-BDB7ECB2735C.fallback</string>
 		<string>features.websearch.google.fallback</string>
+=======
+		<string>features.websearch.custom.150BED67-9F85-43E4-A13B-077704887E18.fallback</string>
+		<string>features.websearch.custom.E8F3A4E8-2BB3-4459-A146-711EE295E7A0.fallback</string>
+		<string>features.websearch.custom.3F26E0AA-208D-48FA-83FF-C7A5EF0E5544.fallback</string>
+		<string>features.websearch.custom.84FAC075-3EA9-4835-8D96-D95C1A14E572.fallback</string>
+		<string>features.websearch.custom.E8F3A4E8-2BB3-4459-A146-711EE295E7A0.fallback</string>
+		<string>features.websearch.custom.46DF01FD-2CA0-42FC-B4D4-5288DD3DCF45.fallback</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 	</array>
 </dict>
 </plist>

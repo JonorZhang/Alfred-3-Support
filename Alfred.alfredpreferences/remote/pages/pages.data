@@ -4,6 +4,7 @@
 <dict>
 	<key>pages</key>
 	<array>
+<<<<<<< HEAD
 		<string>E5AA9B17-8173-4544-BD8A-3FB904C6B503</string>
 		<string>0CCB2224-4B19-44D8-8563-A25BD4269243</string>
 		<string>D8A42A8A-2AF9-44DE-89A5-A64F89592E40</string>
@@ -13,5 +14,15 @@
 	</array>
 	<key>uid</key>
 	<string>1FAB52E7-27E4-44DB-A886-22FDE11F9CEE</string>
+=======
+		<string>F5341B2C-1AAD-48F7-A57F-B50B40EBAED7</string>
+		<string>0A57E0E2-6607-4C4D-88F2-0188E37253B1</string>
+		<string>BA0A7EF2-9F84-4F5B-9B4C-5EB296C098E4</string>
+		<string>DB5402B6-A289-4985-974F-43C423A2E8CD</string>
+		<string>F39DD988-0AF1-4567-8D68-2FCCD17D00E8</string>
+	</array>
+	<key>uid</key>
+	<string>4B1CEA67-9D6D-4BE4-9EDD-323F7B21FC7F</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 </dict>
 </plist>
