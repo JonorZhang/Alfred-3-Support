@@ -4,11 +4,26 @@
 <dict>
 	<key>customSites</key>
 	<dict>
+<<<<<<< HEAD
+		<key>1603F077-B110-4907-8B01-E5A2832EBF55</key>
+=======
 		<key>150BED67-9F85-43E4-A13B-077704887E18</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
+<<<<<<< HEAD
+			<string>icon</string>
+			<key>text</key>
+			<string>爱看图标网,免费中文图标</string>
+			<key>url</key>
+			<string>http://www.iconpng.com/search/tag={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>2A30D716-572A-40DB-9ECA-E5334FB55D6F</key>
+=======
 			<string>baidu</string>
 			<key>plusSpaces</key>
 			<false/>
@@ -20,6 +35,7 @@
 			<true/>
 		</dict>
 		<key>29B0FD48-001C-41D6-B08B-E59DEAEFB934</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
@@ -28,41 +44,154 @@
 			<key>text</key>
 			<string>Stackoverflow</string>
 			<key>url</key>
+<<<<<<< HEAD
+			<string>https://stackoverflow.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>483C0F29-F943-46FF-A6EF-66E3BFE88D1E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>icon</string>
+			<key>text</key>
+			<string>APP图标素材</string>
+			<key>url</key>
+			<string>http://www.easyicon.net/iconsearch/{query}/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5A7B865B-DD13-452B-88D6-39D80A451D75</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>baike</string>
+			<key>text</key>
+			<string>百度百科</string>
+			<key>url</key>
+			<string>https://baike.baidu.com/search/word?pic=1&amp;sug=1&amp;enc=utf-8&amp;word={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>6D803478-C058-43FE-AAB1-F7693B76F41E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>weixin</string>
+			<key>text</key>
+			<string>微信文章</string>
+			<key>url</key>
+			<string>http://weixin.sogou.com/weixin?type=2&amp;query={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>761AEE33-C9FE-4A17-9685-1F6E9DF1FB99</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>baidu</string>
+			<key>text</key>
+			<string>百度搜索</string>
+			<key>url</key>
+			<string>https://www.baidu.com/s?wd={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>7F28C5A5-EECB-4635-879E-53F93728F3ED</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>icon</string>
+			<key>text</key>
+			<string>百度图标</string>
+			<key>url</key>
+			<string>https://image.baidu.com/search/index?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;cl=2&amp;lm=-1&amp;st=-1&amp;fm=result&amp;fr=&amp;sf=1&amp;fmq=1512550369493_R&amp;pv=&amp;ic=0&amp;nc=1&amp;z=&amp;se=1&amp;showtab=0&amp;fb=0&amp;width=&amp;height=&amp;face=0&amp;istype=2&amp;ie=utf-8&amp;word={query}+icon</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B97C62B6-4965-4A47-84BE-400B85AF7630</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>jianshu</string>
+			<key>text</key>
+			<string>简书 - 快速搜索</string>
+			<key>url</key>
+			<string>http://www.jianshu.com/search?utf8=%E2%9C%93&amp;q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>BFBCF0DB-2250-4CA8-A777-1C4A58DE6370</key>
+=======
 			<string>http://www.stackoverflow.com/search?q={query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
 		<key>3F26E0AA-208D-48FA-83FF-C7A5EF0E5544</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
 			<string>taobao</string>
 			<key>text</key>
+<<<<<<< HEAD
+			<string>淘宝搜索</string>
+=======
 			<string>淘宝</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 			<key>url</key>
 			<string>http://s.taobao.com/search?oe=utf-8&amp;f=8&amp;q={query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+		<key>D029A09F-DE86-4371-8A7E-BDB7ECB2735C</key>
+=======
 		<key>46DF01FD-2CA0-42FC-B4D4-5288DD3DCF45</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
 			<string>xclient</string>
 			<key>text</key>
+<<<<<<< HEAD
+			<string>免费精品软件</string>
+=======
 			<string>软件</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 			<key>url</key>
 			<string>http://xclient.info/search/s/{query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+		<key>D56BE1CF-5D0A-4835-B1AF-5EC5179711F9</key>
+=======
 		<key>84FAC075-3EA9-4835-8D96-D95C1A14E572</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
+<<<<<<< HEAD
+			<string>weibo</string>
+			<key>text</key>
+			<string>微博搜索</string>
+			<key>url</key>
+			<string>http://s.weibo.com/weibo/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DB96A474-2E35-40CC-A43A-5A120618D209</key>
+=======
 			<string>jianshu</string>
 			<key>text</key>
 			<string>简书</string>
@@ -72,10 +201,22 @@
 			<true/>
 		</dict>
 		<key>E8F3A4E8-2BB3-4459-A146-711EE295E7A0</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
+<<<<<<< HEAD
+			<string>image</string>
+			<key>text</key>
+			<string>百度图片</string>
+			<key>url</key>
+			<string>http://image.baidu.com/search/index?tn=baiduimage&amp;ps=1&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;nc=1&amp;ie=utf-8&amp;word={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>E053460A-E087-4C59-B30A-39FC54F65664</key>
+=======
 			<string>zhihu</string>
 			<key>plusSpaces</key>
 			<false/>
@@ -87,18 +228,39 @@
 			<true/>
 		</dict>
 		<key>FF407053-3203-468B-A6A6-E60A6E093424</key>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
 			<string>git</string>
 			<key>text</key>
+<<<<<<< HEAD
+			<string>GitHub - 快速搜索</string>
+=======
 			<string>GitHub</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 			<key>url</key>
 			<string>https://github.com/search?utf8=%E2%9C%93&amp;q={query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+		<key>F7760092-90DD-430E-A0C6-6F78E2877479</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>developer</string>
+			<key>text</key>
+			<string>apple developer forums</string>
+			<key>url</key>
+			<string>https://forums.developer.apple.com/search.jspa?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+=======
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 	</dict>
 </dict>
 </plist>

@@ -3,10 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>code</key>
+<<<<<<< HEAD
+	<string>A3PLqKmzpWYW0EwdzRmSB/W8d64uyxRmdSshqnudMNhtddiNJw6D903GHnAZT0ygguNZ0zn+XtjyiOWxM0i/sb6EIlIut89TVp7xRXzkcNlAKXH6tbM0L5vt1DYwfwk77pfRoPZk72Irh+9c/+5Y8gXDa05vznAYl9MYb0KrXlWFliMYN/8LSJTPmqyiJls2i/mvCNxj</string>
+	<key>email</key>
+	<string>jonor@qq.com</string>
+	<key>hash</key>
+	<string>Bd5md+EWPVkvsNywnw0VFJJ2PHdJypMQaHxQjGDYMXNFvw0wOVXh6ca30SpR0jVAGfCb4OS8Ik0k/+bVoDt1Ems2v/CMGl64+aarMDxS8luoN6UtUnZeDpx8kR9vOQNnBMeUp0Fd9+BJB2wZ+Emnl36RPNFjeXGzs5Aotk0r30992un1DM3Z</string>
+=======
 	<string>A3PLSa4wmbmXtOotnkI5GgaQIZQghnSaSn8YqPQGXcGEOWOuI2TMn7cwPU2/3BKM/EOE1v0lR0vitd7fv3MSP4057ElzrN6C/0ex4S7ZnnOVxF7+zEWfC7m5tWsU5+BLNcoiE6+qS28eGq73u9jXirC9E1Dh/LI5P8oGpeP4PxGBaSNHXa8QGjvUoEz2wJNqTxZ8T/RK</string>
 	<key>email</key>
 	<string>jonorzhang@CORE.com</string>
 	<key>hash</key>
 	<string>F7jWtyBh2D1Or712Xvha49PfALV2j29p7Mn8ykh/tBWf2L6Vg4upBiHkKVyCbVlZc5d+I5F77oF54srldbzghN7wZ4MUNnsYedio9lcXbSSOkkLQHbd6ZDWqcF35+BhVbGxSxCzN6YaukqnOmWvO7g6ocuo+ncJfou07to2bZo1yEwfGTlmP</string>
+>>>>>>> 7a303edda5a772bcc44433dab13576e52030e12b
 </dict>
 </plist>
